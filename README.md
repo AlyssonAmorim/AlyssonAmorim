@@ -16,7 +16,7 @@ Olá, eu sou o Alysson Amorim 👋
 
 <div align="center">
   <a href="https://github.com/AlyssonAmorim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyssonAmorim1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlyssonAmorim&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyssonAmorim&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
